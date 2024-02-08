@@ -1,6 +1,6 @@
-team: Tigers
+team: Leopards
 ​
-manager: donado
+manager: Luke
 ​
 members:
 - Linda
