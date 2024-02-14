@@ -9,3 +9,4 @@ members:
 - park
 - kim
 - su
+- arachi
